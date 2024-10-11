@@ -22,6 +22,4 @@ How to use.
 2) Read the how to in the tool.
 
 
-
-
-Enjoy this took a while to make:)
+Enjoy:)
