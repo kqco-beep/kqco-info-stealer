@@ -19,9 +19,7 @@ How to use.
 
 1) Lunch the Info Stealer in the .zip file.
 
-2) After you lunch the tool it will add another tool to your desktop its just a builder file.
-
-3) Read the how to in the tool.
+2) Read the how to in the tool.
 
 
 
