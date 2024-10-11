@@ -15,11 +15,19 @@ This is for educational purposes only.
 
 
 ----------------------------------------------------------------------------------
+Token logger - Trargets Discord Tokens.
+
+Info Grabber - Targets passwords, Emails, Etc.
+
+
+
 How to use.
 
 1) Lunch the Info Stealer in the .zip file.
 
 2) Read the how to in the tool.
+
+
 
 
 Enjoy:)
