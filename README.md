@@ -1,6 +1,7 @@
 
 
-![kqco tool](https://github.com/user-attachments/assets/2dad6377-b7b3-4824-bb57-1db21c1cdee7)
+![Info Stealer](https://github.com/user-attachments/assets/d20e479d-b019-4c81-aa56-c80d113faaed)
+
 
 
 
