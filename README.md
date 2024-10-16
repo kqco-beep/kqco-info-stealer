@@ -24,11 +24,13 @@ Info Grabber - Targets passwords, Emails, Etc.
 
 How to use.
 
-1) Lunch the Info Stealer in the .zip file.
+1. Lunch the build.exe in the zip file.
 
-2) Read the how to in the tool.
+2. Pick an exe to build.
 
+3. Once built u will have full control over the build
 
+4. This Malware is detectable by most anti malware programs.
 
 
 Enjoy:)
