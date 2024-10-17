@@ -16,6 +16,8 @@ This is for educational purposes only.
 
 
 ----------------------------------------------------------------------------------
+What does it do?
+
 Token logger - Trargets Discord Tokens.
 
 Info Grabber - Targets passwords, Emails, Etc.
